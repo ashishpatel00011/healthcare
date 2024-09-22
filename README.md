@@ -35,6 +35,6 @@ Make sure you have the following installed:
 
 4. **Deploy with Vercel**:
    ```bash
-    vercel
-### Security Note:
-This application uses a simple authentication mechanism for demonstration purposes. In a production environment, you should implement a more robust authentication system with secure password hashing, token-based authentication, and proper backend validation.:
+    vercel:
+### Contributing:
+Feel free to fork this repository and submit pull requests to contribute to this project. For major changes, please open an issue first to discuss what you would like to change.

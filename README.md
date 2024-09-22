@@ -35,6 +35,6 @@ Make sure you have the following installed:
 
 4. **Deploy with Vercel**:
    ```bash
-    vercel:
+    vercel
 ### Contributing:
 Feel free to fork this repository and submit pull requests to contribute to this project. For major changes, please open an issue first to discuss what you would like to change.
